@@ -1,0 +1,11 @@
+[INFO  - 2023-04-23T15:04:31.528Z] GhostDriver - Main - running on port 6241
+[INFO  - 2023-04-23T15:04:32.000Z] Session [26eafcb0-e1e8-11ed-a805-d16d99fefc21] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/525.3+ (KHTML, like Gecko) Version/3.0.4 Safari/523.12.2","webSecurityEnabled":true}
+[INFO  - 2023-04-23T15:04:32.000Z] Session [26eafcb0-e1e8-11ed-a805-d16d99fefc21] - page.customHeaders:  - {}
+[INFO  - 2023-04-23T15:04:32.000Z] Session [26eafcb0-e1e8-11ed-a805-d16d99fefc21] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/525.3+ (KHTML, like Gecko) Version/3.0.4 Safari/523.12.2","phantomjs.page.settings.loadImages":false}
+[INFO  - 2023-04-23T15:04:32.001Z[ERROR - 2023-04-23T15:04:32.917Z] Session [26e864a0-e1e8-11ed-bef5-b3435cd027cd] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2023-04-23T15:04:32.917Z] Session [26e864a0-e1e8-11ed-bef5-b3435cd027cd] - page.onError - stack:
+  global code (http://0.yqcypt.com.cn/:54)
+
+  phantomjs://platform/console++.js:263 in error
